@@ -1,7 +1,6 @@
-@import "tailwindcss" source(none);
-@source "../src";
-@import "tw-animate-css";
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;500;600;700;900&family=IM+Fell+English:ital@0;1&family=Cormorant+Garamond:wght@500;600;700&family=Rajdhani:wght@400;600;700&family=Raleway:wght@300;400;500;600;700&display=swap');
+@import "tw-animate-css";
+@import "tailwindcss";
 
 @custom-variant dark (&:is(.dark *));
 
